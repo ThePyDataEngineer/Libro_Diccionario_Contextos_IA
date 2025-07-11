@@ -1,1 +1,5 @@
-# Libro_Diccionario_Contextos_IA
+# Libro Diccionario de Contextos IA
+Repositorio público bajo licencia MIT para el *Libro Diccionario de Contextos IA*.
+
+## Documentos Principales
+- [Resumen Ejecutivo](docs/resumen_ejecutivo.md): Visión general del diccionario.
